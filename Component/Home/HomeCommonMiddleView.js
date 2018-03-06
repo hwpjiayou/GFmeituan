@@ -1,5 +1,5 @@
 /**
- * Created by jiangdikai on 2017/3/21.
+ * Created by hwp on 2017/3/21.
  */
 import React, { Component } from 'react';
 import {
